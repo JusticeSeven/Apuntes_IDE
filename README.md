@@ -17,7 +17,7 @@ Las almohadillas especifican el nivel de head.
 - [Actividades](http://jamj2000.github.io/entornosdesarrollo/1/actividades) El "-" es una viñeta.
 
 
-Para ponerlo en negrita el texto: **bah bah** o __bah bah__
+Para poner en negrita el texto: **bah bah** o __bah bah__
 Para cursiva: *bah bah* _bah bah_
 Cursiva + negrita: ***bah bah*** ___bah bah___
 
